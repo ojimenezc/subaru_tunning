@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.3.01 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Aug 04 16:26:22 CST 2026"/>
+<bibliography author="TunerStudio MS 3.3.01 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Aug 04 16:29:44 CST 2026"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2025.01.6" nPages="15" signature="speeduino 202501"/>
 <page>
 <pcVariable digits="0" name="rpmhigh" units="rpm">8000.0</pcVariable>
@@ -767,8 +767,8 @@
       </constant>
 <constant cols="1" digits="0" name="taeRates" rows="4" units="%">
          26.0 
-         29.0 
-         43.0 
+         27.0 
+         40.0 
          63.0 
       </constant>
 <constant cols="1" digits="0" name="wueBins" rows="10" units="C">
